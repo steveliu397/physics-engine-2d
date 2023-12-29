@@ -1,5 +1,8 @@
 package physics2d.primitives;
 
+import org.joml.Vector2f;
+import physics2d.rigidbody.Rigidbody2D;
+
 public class Ray2D {
     private Vector2f origin;
     private Vector2f direction;

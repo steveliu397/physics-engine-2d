@@ -1,5 +1,7 @@
 package physics2d.primitives;
 
+import org.joml.Vector2f;
+
 public class RaycastResult {
     private Vector2f point;
     private Vector2f normal;
